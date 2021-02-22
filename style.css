@@ -1,0 +1,47 @@
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origamy{
+    border-radius: 20px;
+    background-color:#ffffff;
+    width: 310px;
+    font-family: fantasy;
+    padding: 30px;
+    margin: 25px;
+}
+.menu{
+    display: flex;
+    justify-content:space-evenly;
+    
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    background-color: whitesmoke;
+    margin: 0px
+}
+.bodyimg{
+    position:relative;
+}
+.bodyimg p{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.grid img{
+    border: 2px solid #000000;
+    border-radius:50px;
+}
+
+a:link{
+    color:rgb(214, 129, 49);
+}
+
+a:visited{
+    color:rgb(214, 129, 49);
+}
+
